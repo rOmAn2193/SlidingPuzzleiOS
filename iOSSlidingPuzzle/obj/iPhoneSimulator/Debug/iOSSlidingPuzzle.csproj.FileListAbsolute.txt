@@ -1,0 +1,12 @@
+/Users/Roman/Downloads/iOSSlidingPuzzle/iOSSlidingPuzzle/bin/iPhoneSimulator/Debug/iOSSlidingPuzzle.exe
+/Users/Roman/Downloads/iOSSlidingPuzzle/iOSSlidingPuzzle/bin/iPhoneSimulator/Debug/iOSSlidingPuzzle.pdb
+/Users/Roman/Downloads/iOSSlidingPuzzle/iOSSlidingPuzzle/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/Roman/Downloads/iOSSlidingPuzzle/iOSSlidingPuzzle/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_PartialAppManifest.items
+/Users/Roman/Downloads/iOSSlidingPuzzle/iOSSlidingPuzzle/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/Roman/Downloads/iOSSlidingPuzzle/iOSSlidingPuzzle/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/coremlc/_PartialAppManifest.items
+/Users/Roman/Downloads/iOSSlidingPuzzle/iOSSlidingPuzzle/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/Roman/Downloads/iOSSlidingPuzzle/iOSSlidingPuzzle/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/
+/Users/Roman/Downloads/iOSSlidingPuzzle/iOSSlidingPuzzle/obj/iPhoneSimulator/Debug/iOSSlidingPuzzle.csprojResolveAssemblyReference.cache
+/Users/Roman/Downloads/iOSSlidingPuzzle/iOSSlidingPuzzle/obj/iPhoneSimulator/Debug/iOSSlidingPuzzle.csproj.CoreCompileInputs.cache
+/Users/Roman/Downloads/iOSSlidingPuzzle/iOSSlidingPuzzle/obj/iPhoneSimulator/Debug/iOSSlidingPuzzle.exe
+/Users/Roman/Downloads/iOSSlidingPuzzle/iOSSlidingPuzzle/obj/iPhoneSimulator/Debug/iOSSlidingPuzzle.pdb

@@ -1,0 +1,22 @@
+# Version: 11.10.0.15 (d15-7: 0181ac3d)
+# [first argument, ignore] # --cache=/Users/Roman/Downloads/iOSSlidingPuzzle/iOSSlidingPuzzle/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/mtouch-cache
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.10.0.15/lib/mtouch/mtouch.exe \
+	--sim=/Users/Roman/Downloads/iOSSlidingPuzzle/iOSSlidingPuzzle/bin/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/iOSSlidingPuzzle.app \
+	--executable=iOSSlidingPuzzle \
+	--debug \
+	--nolink \
+	--sdkroot=/Applications/Xcode.app/Contents/Developer \
+	--sdk=11.2 \
+	--targetver=10.2 \
+	--aot-options=-O=-float32 \
+	--http-message-handler=HttpClientHandler \
+	--abi=x86_64 \
+	--symbollist=/Users/Roman/Downloads/iOSSlidingPuzzle/iOSSlidingPuzzle/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/mtouch-symbols.list \
+	--dsym=no \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	'--target-framework=Xamarin.iOS,v1.0' \
+	--root-assembly=/Users/Roman/Downloads/iOSSlidingPuzzle/iOSSlidingPuzzle/bin/iPhoneSimulator/Debug/iOSSlidingPuzzle.exe \
